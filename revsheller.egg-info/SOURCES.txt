@@ -1,0 +1,8 @@
+README.md
+setup.py
+revsheller/__init__.py
+revsheller/revsheller.py
+revsheller.egg-info/PKG-INFO
+revsheller.egg-info/SOURCES.txt
+revsheller.egg-info/dependency_links.txt
+revsheller.egg-info/top_level.txt
