@@ -8,6 +8,12 @@ Note: This package is only for Linux or unix like system.
 
 Take it easy, just a pip.
 
+https://pypi.org/project/revsheller/
+
+```
+pip install revsheller
+```
+
 # How to use
 
 ## To create reverse shells
